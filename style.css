@@ -1,29 +1,37 @@
-body{
-    background-color: cornsilk;
-    font-family: Arial, Helvetica, sans-serif;
-}
-h1{
-    color: blue;
-}
-P{
-    color: black;
-{
-
-}
-    ;
-
-#elephants{ 
-
-
+.container{
+    background-image: url(https://images.unsplash.com/photo-1415862511713-810601557946?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+    display:flex;
     
+    width: auto;
 }
-#elephants p{
+
+h1 {
+    shape-image-threshold: initial;
+}  
+.Elephant {    
+   height: auto;
+   padding: 5px;
+   width: 100%
+   display;flex;
+   
+}
 
 
+
+
+
+
+.wildbeests {
+height: auto;
+padding: 5px;
+width :100%
+
 }
-#lions{
-    text-decoration-style: wavy;
+.lions{
+    height: auto;
+    padding:5px;
+    width: 100%;
 }
-#elephants{
-    <div class=
-<div color: float: ;;
